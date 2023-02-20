@@ -1,0 +1,16 @@
+/* .map{
+    max-width: 100%;
+} */
+.carousel{
+    margin-top: 86px;
+}
+.divmap{
+    background-color: #ccecf8;
+}
+.mission,.vion,.story{
+    background-color: #ccecf8;
+}
+img{
+    height: 800px;
+    object-fit: cover;
+}

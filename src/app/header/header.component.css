@@ -1,0 +1,16 @@
+.nav-item{
+    padding:2px;
+    margin-left: 7px;
+
+    }
+    .logo{
+        width: 100px;
+        height: 60px;
+        object-fit: cover;
+    }
+    .navbar{
+        background-color: #ccecf8;
+    }
+    .nav-link{
+        color: black;
+    }

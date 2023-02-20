@@ -1,0 +1,9 @@
+.imagecard{
+    height: 200px;
+    width: 18rem;
+    object-fit: cover;
+}
+.cardfooter{
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;}
